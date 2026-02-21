@@ -55,6 +55,7 @@ const menuData = [ //the array as a variable, each file in each component identi
   }
 ]
 ;
+//MenuApp is taken from the file
 const App = () => {
   return (
     <div className="App">
